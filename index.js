@@ -1,0 +1,1 @@
+module.exports = require('./lib/koa2-history-api')
