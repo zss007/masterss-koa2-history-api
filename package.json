@@ -1,6 +1,6 @@
 {
   "name": "masterss-koa2-history-api",
-  "version": "1.0.1",
+  "version": "1.0.8",
   "description": "Provides a fallback for non-existing directories so that the HTML 5 history API can be used.",
   "main": "index.js",
   "scripts": {
